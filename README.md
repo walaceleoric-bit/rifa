@@ -32,17 +32,17 @@ Este sistema é ideal para:
 ---
 
 ## Tabela de números da rifa
-![Tabela da rifa](inicio tabela.png)
+![Tabela da rifa](inicio-tabela.png)
 
 ---
 
 ## Painel administrativo
-![Painel administrativo](paine adm configuração.png)
+![Painel administrativo](paine-adm-configuração.png)
 
 ---
 
 ## Iniciar sorteio
-![Iniciar sorteio](painel adm iniciar sorteio.png)
+![Iniciar sorteio](painel-adm-iniciar-sorteio.png)
 
 ---
 
@@ -62,7 +62,7 @@ Este sistema é ideal para:
 ---
 
 ## Sorteio ao vivo
-![Sorteio](sorteio ao vivo.png)
+![Sorteio](sorteio-ao-vivo.png)
 
 ---
 
